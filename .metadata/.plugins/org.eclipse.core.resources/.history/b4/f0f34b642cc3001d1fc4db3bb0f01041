@@ -1,0 +1,12 @@
+*{
+	width:9%;
+	text-align:center;
+	margin: 0px 5%;
+	padding: 0px;
+}
+
+.ad{
+	height: 50px;
+	background-color: red;
+	
+}

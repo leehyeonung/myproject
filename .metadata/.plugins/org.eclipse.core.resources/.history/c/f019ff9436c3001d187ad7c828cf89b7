@@ -1,0 +1,17 @@
+header{
+display:inline;
+height: 100px;
+width: 100px;
+background-color: red; 	
+	
+}
+.logo{
+	
+}
+
+.brand{
+
+}
+
+.search_box{
+}

@@ -1,0 +1,29 @@
+*{
+	margin: 0px 0px;
+	padding: 0px;
+
+}
+
+header{
+
+height: 100px;
+width: 100%;
+background-color: red; 	
+	
+}
+.logo{
+height: 100px;
+width: 100px;
+background-color: aqua;
+    display: inline-block; 	
+}
+
+.brand{
+height: 100px;
+width: 300px;
+background-color: black;
+display: inline-block; 	
+}
+
+.search_box{
+}

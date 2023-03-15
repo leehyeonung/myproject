@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>header</title>
+<link rel="stylesheet" type="text/css" href="css/header.css">
+</head>
+<body>
+<div id="ad">
+<img alt="이미지없음" src="..../image/warning2.png" id="img" 
+style="height: 20px;
+width: 20px;">
+asdfsadf
+</div>
+
+
+</body>
+</html>

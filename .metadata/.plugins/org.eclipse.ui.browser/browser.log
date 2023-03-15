@@ -1,0 +1,16 @@
+
+3월 15, 2023 18:33:37.641 NEW SESSION
+3월 15, 2023 18:33:37.641 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 15, 2023 18:34:12.407 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 15, 2023 19:14:24.397 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 15, 2023 19:15:36.580 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 15, 2023 19:22:03.548 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 15, 2023 19:25:53.227 [16204:15756:0315/192553.227:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 15, 2023 19:32:19.718 [16204:15756:0315/193219.717:ERROR:CONSOLE(79)] "Uncaught TypeError: Cannot read properties of undefined (reading 'reloadInspectedPage')", source: devtools://devtools/bundled/devtools_compatibility.js (79)
+3월 15, 2023 19:55:17.593 [16204:15756:0315/195517.592:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 15, 2023 19:55:17.593 [16204:15756:0315/195517.592:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+3월 15, 2023 21:51:51.260 NEW SESSION
+3월 15, 2023 21:51:51.260 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 15, 2023 21:52:53.575 [17308:1440:0315/215253.575:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 15, 2023 22:01:52.563 [17308:1440:0315/220152.562:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost

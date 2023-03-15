@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="/resuorces/js/ad.js"></script>
+<meta charset="EUC-KR">
+<title>header</title>
+<link rel="stylesheet" type="text/css" href="/resources/css/header.css">
+</head>
+<body>
+<header>
+<div class="logo">
+
+</div>
+<div class="brand"></div>
+<div class="search_box"></div>
+</header>
+
+<nav>
+
+</nav>
+
+
+</body>
+</html>

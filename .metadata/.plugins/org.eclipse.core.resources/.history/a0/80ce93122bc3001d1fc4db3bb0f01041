@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="/resuorces/js/ad.js"></script>
+<meta charset="EUC-KR">
+<title>header</title>
+<link rel="stylesheet" type="text/css" href="/resources/css/header.css">
+</head>
+<body>
+
+<div class="ad">
+<img alt="" src="/resources/image/warning2.jpg">
+
+<div class="ad_text">
+이 부분은 광고부분입니다.(광고문의 : 010-0000-0000) &nbsp; 오늘하루 열지 않음 
+<button type="button" value="" class="close_button" onclick="close_ad()">x</button>
+</div>
+
+</div>
+
+<header>
+</header>
+
+<nav>
+</nav>
+
+
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+header{
+
+height: 100px;
+width: 100%;
+background-color: red; 	
+	
+}
+.logo{
+height: 100px;
+width: 20%;
+background-color: aqua; 	
+}
+
+.brand{
+
+}
+
+.search_box{
+}

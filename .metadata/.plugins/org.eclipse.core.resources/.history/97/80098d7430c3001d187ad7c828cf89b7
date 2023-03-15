@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="/resuorces/js/ad.js"></script>
+<meta charset="EUC-KR">
+<title>header</title>
+<link rel="stylesheet" type="text/css" href="/resources/css/header.css">
+</head>
+<body>
+<div class="ad">
+광구구역입니다.
+</div>
+
+<header>
+<div class="searchbox">
+로고 네이버 검색창~
+</div>
+
+<nav>
+</nav>
+</header>
+</body>
+</html>

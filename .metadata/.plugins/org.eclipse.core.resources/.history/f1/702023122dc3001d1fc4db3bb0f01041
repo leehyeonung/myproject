@@ -1,0 +1,17 @@
+*{
+	width:90%;
+	text-align:center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.ad{
+	width:100%;
+	height: 50px;
+	background-color: red;
+}
+.searchbox{
+	margin:0px;
+	height: 50px;
+	background-color: black;
+}

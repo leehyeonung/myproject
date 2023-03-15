@@ -1,0 +1,22 @@
+*{
+	position: fixed;
+	width:60%;
+	left:20%;
+}
+img{
+	width:50px;
+	height: 50px;
+}
+
+.ad{
+	top:0px;
+	height:50px;
+	background-color: red;
+}
+header{
+	
+}
+
+nav{
+	
+}
